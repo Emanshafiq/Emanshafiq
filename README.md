@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working with **Bano Qabil**
 
-- 🌱 I’m currently learning **Jawascript**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👯 I’m looking to collaborate on **JS**
 
