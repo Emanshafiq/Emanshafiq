@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanshafiq" alt="emanshafiq" /></a> </p>
 
-- 🔭 I’m currently working on **Mern Stack**
+- 🔭 I’m currently working with **Bano Qabil**
 
 - 🌱 I’m currently learning **Jawascript**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **emanshafiq78654@gmail.com**
 
-- 📄 Know about my experiences [I have worked on HTML and CSS](I have worked on HTML and CSS)
+- 📄 Know about my experiences [I have worked on HTML and CSS]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
